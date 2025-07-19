@@ -7,11 +7,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
-
 ---
 
 ### 🚀 About Me
@@ -26,7 +27,7 @@
 
 | 💻 Languages | 🧠 ML & DL | 🌐 Web & DevOps | 📊 Visualization | 🗃️ Databases |
 |--------------|-----------|----------------|------------------|--------------|
-| `Python`, `C`, `C++` | `Scikit-learn`, `TensorFlow`, `PyTorch`, `XGBoost`, `YOLOv5`, `Transformers` | `Flask`, `FastAPI`, `Streamlit`, `Docker`, `GitHub Actions`, `AWS` | `Power BI`, `Matplotlib`, `Seaborn` | `MongoDB`, `MySQL` |
+| `Python`, `C`, `C++` | `Scikit-learn`, `TensorFlow`, `PyTorch`, `XGBoost`, `YOLOv5`, `Transformers` `LLMs` | `Flask`, `FastAPI`, `Streamlit`, `Docker`, `GitHub Actions`, `AWS` | `Power BI`, `Matplotlib`, `Seaborn` | `MongoDB`, `MySQL` |
 
 ---
 
@@ -38,10 +39,10 @@
 🤟 **[Live Sign Language Detection](https://github.com/Nickxlx/LiveSignLanguageDetection)**  
 > 📹 Real-time sign language classification using YOLOv5 and Flask.
 
-💳 **[Credit Card Default Prediction](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset)**  
+💳 **[Credit Card Default Prediction](https://github.com/Nickxlx/Credit-Card-Default-Predictiontion)**  
 > 📈 XGBoost classifier achieving 80% accuracy on predicting defaults.
 
-🏗️ **[Cement Strength Predictor](https://github.com/Nickxlx/Cement-Strength-Predictor)**  
+🏗️ **[Cement Strength Predictor](https://github.com/Nickxlx/ConcreteCompressiveStrengthPrediction)**  
 > 🧪 Gradient boosting model with 92.7% accuracy deployed on AWS.
 
 ---
